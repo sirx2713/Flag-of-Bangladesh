@@ -1,0 +1,19 @@
+body{
+    background-color: #240A34;
+    color: white;
+}
+.green-box{
+    height: 400px;
+    width: 1200px;
+    background-color: #006A4E;
+    position: relative;
+}
+.green-box .red-circle{
+    height: 300px;
+    width: 300px;
+    background-color: #F42A41;
+    border-radius: 50%;
+    position: absolute;
+    top: 50px;
+    left: 450px;
+}
